@@ -14,7 +14,7 @@ public class MyFirstRepo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello my GIT");
+        System.out.println("It is changes of release 2023");
     }
     
 }
