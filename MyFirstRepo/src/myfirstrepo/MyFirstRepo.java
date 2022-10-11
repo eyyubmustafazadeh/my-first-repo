@@ -15,6 +15,7 @@ public class MyFirstRepo {
      */
     public static void main(String[] args) {
         System.out.println("Hello my GIT");
+        System.out.println("BRNCH-0.2 deyisikliyi");
     }
     
 }
